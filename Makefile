@@ -15,7 +15,7 @@ build:
 	cd ./cmd/cli && GOOS=darwin GOARCH=amd64 go build -ldflags=$(flags) -o $(GOBIN)/mnemo-mac-amd64
 	cd ./cmd/cli && GOOS=darwin GOARCH=arm64 go build -ldflags=$(flags) -o $(GOBIN)/mnemo-mac-arm64
 
-	cd ./cmd/cli && GOOS=windows GOARCH=amd64 go build -ldflags=$(flags) -o $(GOBIN)/mnemo-windows-amd64
+	cd ./cmd/cli && GOOS=windows GOARCH=amd64 go build -ldflags=$(flags) -o $(GOBIN)/mnemo-windows-amd64.exe
 	
 
 deps:
