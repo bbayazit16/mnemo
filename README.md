@@ -1,6 +1,6 @@
 # Mnemo
 
-[![Build and Test](https://github.com/bbayazit16/mnemo/actions/workflows/mnemo.yml/badge.svg)](https://github.com/bbayazit16/mnemo/actions/workflows/mnemo.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/bbayazit16/mnemo)](https://goreportcard.com/report/github.com/bbayazit16/mnemo)
+[![Build and Test](https://github.com/bbayazit16/mnemo/actions/workflows/go.yml/badge.svg)](https://github.com/bbayazit16/mnemo/actions/workflows/go.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/bbayazit16/mnemo)](https://goreportcard.com/report/github.com/bbayazit16/mnemo)
 
 Mnemo is a command line tool for:
 - Compiling opcode mnemonics into bytecode
